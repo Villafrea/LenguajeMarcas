@@ -1,0 +1,20 @@
+del{
+    color: blue;
+    font-size: 250%;
+vertical-align: -50%;
+}
+ins{
+    color: green;
+    font-size: 200%;
+    vertical-align: 15%;
+
+}
+
+
+#p1{
+    vertical-align: 70%;
+}
+
+#p2{
+    vertical-align: -70%;
+}
