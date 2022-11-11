@@ -1,0 +1,26 @@
+h1{
+    font-size: 250%;
+    text-align: center;
+    color: grey;
+}
+p{
+    background-color: darkcyan;
+
+}
+
+h2{
+    background-color: darkgrey;
+    color: red;
+}
+pre{
+    background-color:lightblue ;
+}
+
+i{
+    text-decoration: underline;
+    color: blue;
+}
+
+b{
+    color: green;
+}

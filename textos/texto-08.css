@@ -1,0 +1,25 @@
+body{
+    background-color: darkturquoise;
+}
+h1{
+    text-align: right;
+    font-size: 400%;
+    font-family: "Comic sans MS" ;
+}
+
+#p1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    font-family: "Comic sans MS";
+
+}
+b{
+    color: red;
+
+}
+i{
+    color: yellow;
+    background-color: green;
+}
