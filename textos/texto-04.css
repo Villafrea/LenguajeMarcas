@@ -1,0 +1,47 @@
+
+body{
+    background-color:silver;
+}
+
+h1{
+    font-size: 240%;
+    color:dimgrey;
+}
+
+#p1{
+    background-color:darkgray;
+}
+h2{
+    text-decoration: underline;
+    background-color: grey;
+    color:darkslategrey;
+    font-size: 180%;
+}
+#p2{
+    background-color: darkgrey;
+}
+#p3{
+    background-color: darkgrey;
+}
+#p4{
+    background-color: darkgrey;
+}
+
+#p5{
+    background-color: white;
+    text-align: right;
+}
+
+#p6{
+    background-color: darkgrey;
+}
+#p7{
+    background-color: darkgrey;
+}
+h3{
+    background-color:dodgerblue;
+}
+#p8{
+    background-color:darkgrey;
+}
+
