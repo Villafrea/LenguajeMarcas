@@ -10,8 +10,8 @@ h1{
 #p1{
     border-style: dashed;
     background-color: white;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 2%;
+    padding-right: 2%;
     margin-left: 30%;
     margin-right: 30%;
 }
@@ -23,9 +23,10 @@ h1{
     border-left-color: cadetblue;
     border-right-color: cornflowerblue;
     border-bottom-color: cornflowerblue;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left:2%;
+    padding-right: 2%;
     margin-left: 50%;
+    color: blue;
 }
 #p3{
     border-style:solid;
@@ -34,15 +35,18 @@ h1{
     padding-left: 10%;
     padding-right: 10%;
     margin-right: 50%;
+    color:#cb6cd4
+    ;
 }
 #p4{
     border-style:dotted;
-    background-color:blueviolet;
+    background-color:#663366;
     border-color:darkblue;
     padding-left: 10%;
     padding-right: 10%;
     border-width: 6px;
     margin-left: 50%;
+    color: white;
 }
 #p5{
     border-style: dashed;
